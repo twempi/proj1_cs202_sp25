@@ -220,6 +220,31 @@ A file called `test_1.py` is included to check that:
 - Function names match
 - Argument counts and return types are correct
 
+  Sure! Here's a clean and clear bullet-point section in Markdown that you can paste directly into your assignment README or GitHub Classroom instructions:
+
+---
+
+### 🧪 Grading and Submission Policy
+
+- ✅ Your **grade will be based on 20 hidden test cases**, each worth **5 points**, totaling **100 points**.
+- 🧠 These test cases cover:
+  - Data definitions (`GlobeRect`, `Region`, `RegionCondition`)
+  - All required functions
+  - Edge cases and boundary conditions
+  - Handling of invalid or unexpected input
+- ⚠️ **Passing `test_1.py` does not contribute to your grade**. It only checks basic setup and types.
+- 📄 You must write your own tests in a file named **`test_student.py`**.
+  - Failure to include `test_student.py` will result in a **10% penalty** on your final score.
+- 📤 Late submissions reduce the **maximum possible grade by 10% per day**.
+  - Even being late by a few minutes triggers this penalty.
+  - For example:
+    - 1 day late → max possible score = 90%
+    - 2 days late → max possible score = 80%
+    - etc.
+
+---
+
+
 ### ✅ Reminder:
 - Do **not edit** `test_1.py`
 - Ensure both `proj1.py` and `test_student.py` are committed and pushed
